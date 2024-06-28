@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+img {
+    width: 10rem;
+}
+
+button {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    border-radius: 1.5rem;
+    border: none;
+    background-color: gray;
+    color: white;
+}
+
+.header {
+    margin-top: 2rem;
+    text-align: center;
+
+}
+
+.container {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    margin-left: 11.3rem;
+}
+
+.card {
+    padding: 10rem;
+}
+
+.icon {
+
+    background-color: transparent;
+    width: 10rem;
+
+}
+
+.container-pipe {
+    border-style: solid;
+    margin-top: 8%;
+    margin-bottom: 8rem;
+}
+
+.footer {
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 0.4rem;
+    padding-bottom: 7.2rem;
+
+}
+
+.footer hr {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}

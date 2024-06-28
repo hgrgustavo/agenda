@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+form p {
+    text-align: center;
+}
+
+
+.header {
+    text-align: center;
+}
+
+.services {
+    margin-top: 3rem;
+ 
+    
+}
+.services form {
+    display: grid;
+
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-bottom: 9rem;
+
+}
+
+.services input {
+    margin-bottom: 1rem;
+    
+    padding: 1rem;
+
+    border: 0.1rem;
+    border-color: black;
+    border-style:solid;
+    border-radius: 0.4rem;
+
+}
+
+.services button {
+    background-color: #595959;
+    
+    color: white;
+    font-weight: bolder;
+    font-size: medium;
+   
+    margin-left: 17rem;
+    margin-right: 17rem;
+
+    border: none;
+    border-radius: 0.4rem;
+
+    padding: 1rem;
+}
+
+.services p {
+    background-color: whitesmoke;
+    
+    padding: 0.5rem;
+
+    color: gray;
+
+    font-weight: bold;
+}
+
+
+
+
+

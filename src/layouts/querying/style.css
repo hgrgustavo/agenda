@@ -1,0 +1,29 @@
+body {
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.header {
+    text-align: center;
+
+}
+
+.container {
+    margin-top: 2rem;
+
+    padding-bottom: 32rem;
+
+    border-style:dashed;
+
+    background-color: lightgray;
+
+}
+
+.container card {
+    
+}
+
+
+
+
